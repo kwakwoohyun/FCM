@@ -118,8 +118,11 @@ venv
 
 
 .idea
-
-
+.eggs
+.pytest_cache
+build
+dist
+helloworld.egg-info
 
 
 
